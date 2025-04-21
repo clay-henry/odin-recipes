@@ -1,0 +1,1 @@
+This project will consist of an index page and will have links to a few recipes.
